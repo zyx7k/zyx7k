@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Soumil Gupta</h1>
-<h3 align="center">A Sophomore @ IIIT Hyderabad</h3>
+<h3 align="center">ECE Junior @ IIIT Hyderabad</h3>
 
 <p align="left"> <a href="https://twitter.com/zyx7k" target="blank"><img src="https://img.shields.io/twitter/follow/zyx7k?logo=twitter&style=for-the-badge" alt="zyx7k" /></a> </p>
 
