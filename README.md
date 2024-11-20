@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zyx7k" target="blank"><img src="https://img.shields.io/twitter/follow/zyx7k?logo=twitter&style=for-the-badge" alt="zyx7k" /></a> </p>
 
-- ⚡ Fun fact **I love photography and going on adventures! P.S: I'm 6'2 :)**
+- ⚡ Fun fact **I love photography and going on adventures!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
